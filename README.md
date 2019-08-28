@@ -1,1 +1,1 @@
-# gitfun
+# Repo for chapter time about GIT
