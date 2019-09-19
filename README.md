@@ -22,3 +22,6 @@
 to see log: git log
 
 dit is nog een edit om jhihv iets te laten zien
+
+
+haha dit is lokaal gedaan
