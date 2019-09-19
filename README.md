@@ -21,10 +21,4 @@
 
 to see log: git log
 
-aanpassing
-
-nog een aanpassing we blijven bezig....
-
-jaja
-
-laten we eens testen
+dit is nog een edit om jhihv iets te laten zien
